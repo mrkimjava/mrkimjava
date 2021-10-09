@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 	<br><br>
 	💬 <b>Contact me</b><br><br>
 	<img src="https://img.shields.io/badge/ksh012468@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-	<img src="https://img.shields.io/badge/ksk9922-EA4335?style=flat-square&logo=Kakao&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ksk9922-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/>
 </div>
 
 
