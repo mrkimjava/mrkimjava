@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>	
 	<br><br>
-	💬 <b>Contact me</b><br>
-	<img src="https://img.shields.io/badge/ksh012468@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>	
+	💬 <b>Contact me</b><br><br>
+	<img src="https://img.shields.io/badge/ksh012468@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+	<img src="https://img.shields.io/badge/ksk9922-EA4335?style=flat-square&logo=Kakao&logoColor=white"/>
 </div>
 
 
