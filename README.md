@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>	
-	
+	<br><br>
+	💬 <b>Contact me</b><br>
+	<img src="https://img.shields.io/badge/ksh012468@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>	
 </div>
 
 
