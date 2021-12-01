@@ -23,10 +23,13 @@ Here are some ideas to get you started:
 	🌱 <b>Techs that I've used at least Once</b> 🌱<br><br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>	
 	<br><br><br><br>
