@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 🔭기술 스택
-<hr>
+<br>
 	
 ⚡ <b>Client</b> ⚡<br><br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
